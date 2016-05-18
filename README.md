@@ -9,7 +9,7 @@ functionality next:
 
 2.-The second one only checks if the input is syntactically correct.
 
-3.-This one generates the parse tree, it outputs the tree as a xml file.
+3.-This one generates the parse tree, it outputs the tree as an xml file.
 
 4.-Semantic analysis, that's it.
 

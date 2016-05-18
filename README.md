@@ -13,7 +13,7 @@ functionality next:
 
 4.-Semantic analysis, that's it.
 
-5.-Code generation, currently it doen't generate any code for floating point numbers,
+5.-Code generation, currently it doesn't generate any code for floating point numbers,
    it prodces assembly code that you might want to test with [masm32](http://www.masm32.com/).
    
 Finally, all of the programs take as input a file named "entrada.txt" containing python source code
